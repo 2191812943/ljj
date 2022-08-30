@@ -19,7 +19,7 @@
 # 生日1
 "birthday1": {"name": "赵雯珏", "birthday": "2004-03-06"},
 # 生日2
-"birthday2": {"name": "赵雯珏", "birthday": "r2004-02-016"},
+"birthday2": {"name": "赵雯珏(农历）", "birthday": "r2004-02-16"},
 # 纪念日1，会计算累计时间，格式"YYYY-MM-DD"
 "commemoration_day1": "2004-03-06",
 # 金句中文，留空默认显示金山的每日金句

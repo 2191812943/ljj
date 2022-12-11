@@ -23,9 +23,9 @@
 # 纪念日1，会计算累计时间，格式"YYYY-MM-DD"
 "commemoration_day1": "2004-03-06",
 # 金句中文，留空默认显示金山的每日金句
-"note_ch": "",
+"note_ch": "你是我的今天，以及，所有的明天。做我的女孩",
 # 金句英文
-"note_en": "",
+"note_en": "You are my today and all of my tomorrows.Be my girl.",
 # 字体颜色:使用RGB颜色(如#000000黑色)，留空颜色默认随机
 "color_date":                     "",          # 日期字体颜色
 "color_region":                   "",          # 地区字体颜色

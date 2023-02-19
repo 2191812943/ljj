@@ -15,7 +15,7 @@
 # 天行数据apikey
 "tian_api": "5bc0e3ade2f7634742fd06210f4f0e2c",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "宜丰县",
+"region": "顺庆区",
 # 生日1
 "birthday1": {"name": "赵雯珏", "birthday": "2004-03-06"},
 # 生日2
